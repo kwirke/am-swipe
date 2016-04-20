@@ -1,0 +1,25 @@
+{
+  "name": "am-swipe",
+  "version": "0.0.0",
+  "description": "An angular directive to swipe elements from a list to perform actions depending upon the direction. Forked from Favish/swipe-to-remove.",
+  "main": "src/item-swipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwirke/am-swipe.git"
+  },
+  "keywords": [
+    "angular",
+    "swipe",
+    "direction",
+    "animation",
+    "npm"
+  ],
+  "author": "Kwirke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwirke/am-swipe/issues"
+  }
+}
